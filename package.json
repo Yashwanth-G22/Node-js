@@ -1,0 +1,28 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "new project on node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yashwanth-G22/Node-js-Repo.git"
+  },
+  "keywords": [
+    "node",
+    "express"
+  ],
+  "author": "yash",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yashwanth-G22/Node-js-Repo/issues"
+  },
+  "homepage": "https://github.com/Yashwanth-G22/Node-js-Repo#readme",
+  "dependencies": {
+    "express": "^4.19.2",
+    "jade": "^1.11.0",
+    "socket.io": "^4.7.5"
+  }
+}
